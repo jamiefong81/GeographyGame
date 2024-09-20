@@ -1,0 +1,30 @@
+.login-page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #8EACCD;
+  }
+
+#welcome-message {
+    font-family: fira-sans;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.login-error-message {
+    color: #B8001F;
+    margin-top: 15px;
+    font-family: fira-sans;
+    font-size: 25px;
+}
+
+.action-message {
+    margin-bottom: 50px;
+    font-family: fira-sans;
+    font-size: 50px;
+}
